@@ -1,8 +1,8 @@
 body{
   text-align: center;
   margin: 0;
-font-family: 'Dongle', sans-serif; 
-  font-size: 24px;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
 }
 .allinone{
   background-color: #99FEFF;
@@ -11,6 +11,7 @@ font-family: 'Dongle', sans-serif;
 }
 .top{
   margin: 50px auto 0 auto;
+color:#da0037;
   font-size: 8rem;
   font-family: 'Sacramento', cursive;
 }
@@ -60,7 +61,7 @@ margin-top: 0;
 
 .climbing{
   width: 25%;
-    float: left;
+    float: right;
     margin-right: 30px;
 }
 
